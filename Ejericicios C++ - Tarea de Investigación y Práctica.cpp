@@ -82,7 +82,7 @@ int main() {
 	/*
 				---PROGRAMA 5---
 	string frutas] = { "fresa", "sandia", "melon", "fresa", "naranja", "melon", "mango", "naranja", "fresa" }; // Se declara el arreglo de frutas
-	int contador[5] = { 0, 0, 0, 0 }; // Se declara un array para contar cuántas veces aparece cada fruta
+	int contador[5] = { 0, 0, 0, 0, 0 }; // Se declara un array para contar cuántas veces aparece cada fruta
 	int d; 
 
 	for (d = 0; d < 9; d++) { // Se recorre el array de frutas
